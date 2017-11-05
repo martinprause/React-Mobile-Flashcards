@@ -11,7 +11,7 @@ You need to install [node.js](https://nodejs.org/en/), [npm](https://www.npmjs.c
 ## Install and Launch
 
     #Clone this project using git
-    git clone https://github.com/trobar/reactnd-project-myreads-starter.git
+    git clone https://github.com/trobar/mobile-flashcards.git
 
     #Navigate to the project directory
     #Install all necessary dependencies based on the package.json file
