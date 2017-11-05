@@ -20,4 +20,6 @@ You need to install [node.js](https://nodejs.org/en/), [npm](https://www.npmjs.c
     #Run the node server
     yarn start
 
+## Test
+This project has been tested on iOS and Android devices
 
