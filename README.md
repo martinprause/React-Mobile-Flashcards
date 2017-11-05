@@ -15,7 +15,7 @@ You need to install [node.js](https://nodejs.org/en/), [npm](https://www.npmjs.c
 
     #Navigate to the project directory
     #Install all necessary dependencies based on the package.json file
-    npm install
+    npm install or yarn install
 
     #Run the node server
     yarn start
